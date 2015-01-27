@@ -1,0 +1,3 @@
+La recaudación media es de 50.2 por ciudad
+Las ciudades que han superado dicha media son: 
+ciud0  ciud3  

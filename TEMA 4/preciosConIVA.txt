@@ -1,0 +1,5 @@
+CoctelMolotov 42.35
+Bayoneta 24.2
+Granada 30.25
+Cuchara 14.52
+Palo 6.05

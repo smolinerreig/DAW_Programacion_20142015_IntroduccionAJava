@@ -1,0 +1,1 @@
+ciud0 3 10 20 30 ciud1 3 1 2 3 ciud2 2 5 10 ciud3 4 50 30 30 40 ciud4 1 20

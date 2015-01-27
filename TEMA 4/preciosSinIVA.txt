@@ -1,0 +1,5 @@
+CoctelMolotov 35
+Bayoneta 20
+Granada 25
+Cuchara 12
+Palo 5 
